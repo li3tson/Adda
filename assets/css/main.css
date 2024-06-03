@@ -1,6 +1,6 @@
 #title {
   position: absolute;
-  bottom: 1rem;
+  bottom: 4rem;
   left: 1rem;
   display: flex;
   align-items: center;
@@ -9,7 +9,7 @@
   font-size: 2rem;
   font-weight: bold;
   line-height: 2.5rem;
-  letter-spacing: 0.82rem;
+  letter-spacing: 0.78rem;
 }
 
 #wrapper {
@@ -96,7 +96,7 @@
 #pagination {
   position: absolute;
   bottom: 1rem;
-  right: 1rem;
+  left: 1rem;
   display: flex;
   align-items: center;
   gap: 1rem;
